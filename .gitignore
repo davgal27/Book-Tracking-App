@@ -1,25 +1,26 @@
-# Flutter/Dart
+# Flutter/Dart tooling
 .dart_tool/
-.packages
-.pub/
 build/
-flutter_export_environment.sh
-flutter_export_environment.bat
 
-# VS Code
+# IDE/editor files
 .vscode/
-
-# IntelliJ/Android Studio
 .idea/
 *.iml
 
-# macOS
+# OS-specific
 .DS_Store
-
-# Windows
 Thumbs.db
-ehthumbs.db
 Desktop.ini
 
-# Logs
+# Logs and temp files
 *.log
+*.tmp
+*.swp
+
+# Flutter internal metadata
+.metadata
+
+# Platform folders not used
+linux/
+macos/
+windows/
