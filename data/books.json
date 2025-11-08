@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "datePublished": "1937-09-21",
+    "genre": "Fantasy",
+    "pages": 310,
+    "pageProgress": 0,
+    "rating": 5,
+    "description": "Bilbo Baggins, a hobbit, goes on an unexpected adventure. This classic fantasy introduces Middle-earth and its legendary characters.",
+    "inLibrary": true,
+    "section": 0
+  },
+  {
+    "id": 102,
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "datePublished": "1949-06-08",
+    "genre": "Dystopian",
+    "pages": 328,
+    "pageProgress": 100,
+    "rating": 5,
+    "description": "A chilling depiction of a totalitarian regime and constant surveillance. Orwell's dystopia is both a political warning and literary masterpiece.",
+    "inLibrary": true,
+    "section": 1
+  },
+  {
+    "id": 103,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "J.B. Lippincott & Co.",
+    "datePublished": "1960-07-11",
+    "genre": "Classic",
+    "pages": 281,
+    "pageProgress": 0,
+    "rating": 4,
+    "description": "Scout Finch navigates childhood in a racially divided town. The story explores morality, empathy, and justice.",
+    "inLibrary": true,
+    "section": 0
+  },
+  {
+    "id": 104,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Charles Scribner's Sons",
+    "datePublished": "1925-04-10",
+    "genre": "Classic",
+    "pages": 180,
+    "pageProgress": 180,
+    "rating": 4,
+    "description": "Jay Gatsby's obsession with Daisy Buchanan drives a tale of wealth and illusion. Fitzgerald critiques the American Dream with elegance and style.",
+    "inLibrary": true,
+    "section": 2
+  },
+  {
+    "id": 105,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "T. Egerton, Whitehall",
+    "datePublished": "1813-01-28",
+    "genre": "Romance",
+    "pages": 279,
+    "pageProgress": 0,
+    "rating": 5,
+    "description": "Elizabeth Bennet navigates love, family, and social expectations. Austen's wit and insight make this a timeless romantic classic.",
+    "inLibrary": true,
+    "section": 0
+  }
+]

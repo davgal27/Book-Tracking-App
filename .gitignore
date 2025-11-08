@@ -1,0 +1,25 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_export_environment.sh
+flutter_export_environment.bat
+
+# VS Code
+.vscode/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
